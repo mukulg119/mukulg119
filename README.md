@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mukul Goyal
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning NLP based models.
-- 💞️ I’m looking to collaborate on deep learning based interesting work.
 - 📫 You can reach out to me on Linkedin https://www.linkedin.com/in/mukul-goyal-1941b1b0/
 
 <!---
